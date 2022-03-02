@@ -1,7 +1,7 @@
 ---
 title: Designing a full fledged database schema
 date: '2021-02-02T12:00:00.00Z'
-description: 'The goto DBMS for this project will be Postgres...'
+description: 'The go to DBMS for this project will be Postgres...'
 ---
 Coming soon...
 
