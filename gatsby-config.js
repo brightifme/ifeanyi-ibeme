@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ifeanyi-ibeme-8423a9233`,
     // Content of the About Me section
-    about: `I'm a motivated software engineer who has experience building and scaling web applications. I'm also passionate about working in high impact environment and buikding great products.`,
+    about: `I'm a motivated software engineer who has experience building and scaling web applications. I'm also passionate about working in high impact environment and building great products.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
