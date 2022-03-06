@@ -32,7 +32,7 @@ module.exports = {
       },
      {
       name: 'Jorries Store Backend',
-      description: 'This is the backend service developed for Jorries E-commerce Store's,
+      description: 'This is the backend service developed for Jorries E-commerce Store',
       link: 'https://github.com/brightifme/jorries-store-backend',
      },
       {
