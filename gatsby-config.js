@@ -30,6 +30,11 @@ module.exports = {
           'This is a RESTful API with User Authentication + built using TypeScript and MongoDB',
         link: 'https://github.com/brightifme/typescript-rest-api',
       },
+     {
+      name: 'Jorries Store Backend',
+      description: 'This is the backend service developed for Jorries E-commerce Store's,
+      link: 'https://github.com/brightifme/jorries-store-backend',
+     },
       {
         name: 'Jobbido',
         description:
