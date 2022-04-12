@@ -5,17 +5,17 @@ module.exports = {
     // Your Name
     name: 'Ifeanyi Ibeme',
     // Main Site Title
-    title: `Ifeanyi Ibeme | Software Engineer`,
+    title: `Ifeanyi Ibeme | Software Developer`,
     // Description that goes under your name in main bio
-    description: `Software Engineer from Lagos, Nigeria.`,
+    description: `Software Developer from Lagos, Nigeria.`,
     // Optional: Twitter account handle
     author: `@ifeanyi_ibeme`,
     // Optional: Github account URL
     github: `https://github.com/brightifme`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ifeanyi-ibeme-8423a9233`,
+    linkedin: ` https://www.linkedin.com/in/ifeanyi-ibeme-8423a9233`,
     // Content of the About Me section
-    about: `I'm a motivated software engineer who has experience building and scaling web applications. I'm also passionate about working in high impact environment and building great products.`,
+    about: `I'm a motivated software developer who has experience building and scaling web applications. I'm also passionate about working in high impact environment and building great products.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -30,28 +30,24 @@ module.exports = {
           'This is a RESTful API with User Authentication + built using TypeScript and MongoDB',
         link: 'https://github.com/brightifme/typescript-rest-api',
       },
-     {
-      name: 'Jorries Store Backend',
-      description: 'This is the backend service developed for Jorries E-commerce Store',
-      link: 'https://github.com/brightifme/jorries-store-backend',
-     },
       {
         name: 'Jobbido',
         description:
           'A job portal that connects Employers & Employees + built using Node.js, MongoDB',
         link: 'https://github.com/brightifme/jobbido',
       },
+      {
+        name: 'Jorries E-Commerce Store Backend',
+        description:
+          'The full backend service of Jorries Store...',
+        link: 'https://github.com/brightifme/jobbido',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Noland Tech',
-        description: 'Backend Developer, March 2019 - December 2021',
-        link: '',
-      },
-      {
         name: 'Eket Computer Consult',
-        description: 'Backend Developer, October 2018 - January 2019',
+        description: 'Web Developer, October 2018 - January 2019',
         link: '',
       },
       {
@@ -65,12 +61,12 @@ module.exports = {
       {
         name: 'Backend Skills',
         description:
-          'JavaScript (ES6+), Node.js, TypeScript, RESTful API, Express.js, Python, SQL, Java, C#, PHP, Kubernetes, Docker, SOAP ',
+          'JavaScript (ES6+), Node.js, TypeScript, RESTful API, Express.js, Python, SQL, PHP, Docker, SOAP ',
       },
       {
         name: 'Front Web Dev',
         description:
-        'React, JavaScript(ES6), Angular, Vb.net, HTML5, CSS3, React and Redux, Foundation, Bootstrap, Meteor, Jekyll, SASS',
+        'React, JavaScript(ES6), HTML5, CSS3, React and Redux, Foundation, Bootstrap, Meteor, Jekyll, SASS',
       },
       {
         name: 'Database',
@@ -156,7 +152,7 @@ module.exports = {
         name: `devfolio`,
         short_name: `devfolio`,
         start_url: `/`,
-        background_color: `#663399`,
+        background_color: `black`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
